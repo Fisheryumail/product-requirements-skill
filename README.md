@@ -15,7 +15,7 @@ Lean PRD skill for Codex. It turns rough feature ideas, stakeholder notes, or re
 Clone this repository into your Codex skills directory:
 
 ```bash
-git clone https://github.com/Fisheryumail/product-requirements-skill.git ~/.codex/skills/product-requirements
+git clone https://github.com/yesaze2077/product-requirements-skill.git ~/.codex/skills/product-requirements
 ```
 
 Then restart Codex or reload skills.
